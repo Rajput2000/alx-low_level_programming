@@ -11,7 +11,7 @@ int main(void)
 	int count;
 	unsigned long fib1 = 0, fib2 = 1,sum;
         
-        for (count = 0; count<85; count++)
+        for (count = 0; count<98; count++)
         {       
                 sum = fib1 + fib2;
                 printf("%lu, " ,sum);
